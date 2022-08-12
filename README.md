@@ -21,4 +21,11 @@ For Windows
 
 Tap the Console tab. Then copy the code from the index.js file and paste it into the console editor. Finally, fill in the parameters N, H, M respectively with the suggested test cases. Verify that the values meet the requirements and constraints of the exercise.
 
+You can also follow the steps below: 
+1. Download VSCode to your computer https://code.visualstudio.com/download.
+2. Install NodeJS on your computer https://nodejs.org/en/download/current/. 
+3. Clone the repository.
+4. Execute Run with NodeJS from VSCode -> in the terminal -> section "debug section" -> the output will appear.
+
+### Additional
 In the .zip file you will find the images of the use cases carried out and their respective outputs
